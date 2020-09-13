@@ -1,5 +1,5 @@
 # Index Page
-[[_SOC_]]
+[[_TOC_]]
 ## Hello
 - list1
   - [x] blarblarblarblar
